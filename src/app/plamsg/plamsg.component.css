@@ -1,0 +1,42 @@
+pre{
+  word-wrap:break-word;
+  font-style: normal;
+  font-size: medium;
+}
+div{
+  width: auto;
+}
+.content{
+  border:0.5px solid rgb(199, 35, 199);
+  justify-items: auto;
+  padding: 70px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  height:auto;
+  background-color: pink;
+
+}
+img{
+  left: auto;
+}
+.alignright {
+  display: inline;
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.text{
+  display: inline;
+  float: right;
+  margin-left: 80px;
+  margin-bottom:80px ;
+  margin-top: 2px;
+  margin-right: 40px;
+
+}
+.styleattribute{
+  text-align: justify;
+}
+

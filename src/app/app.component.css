@@ -1,0 +1,16 @@
+
+
+.logo-image{
+  width: 46px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
+
+nav{
+  background-color: black;
+}
+.navbar-nav a{
+  float:right;
+}
